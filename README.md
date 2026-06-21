@@ -1,4 +1,4 @@
-#Data Science, Machine Learning & Deep Learning Using Python
+Data Science, Machine Learning & Deep Learning Using Python
 
 About This Repository
 
